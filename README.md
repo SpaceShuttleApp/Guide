@@ -69,7 +69,7 @@ Your personal image cloud
 
 > [Example gist here](https://gist.github.com/SlumberDemon/1a2c72d6ce765e6f7c824a5ba99663e3)
 
-#### <a name="usage_github"></a> Discord
+#### <a name="usage_discord"></a> Discord
 
 > Share your images on chat apps like discord
 
