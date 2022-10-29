@@ -17,7 +17,7 @@ Your personal image cloud
 Your personal image cloud
 
 **Links:**
-> [`Github`](https://github.com/SpaceCdn)
+> [`Github`](https://github.com/SpaceShuttleApp/SpaceShuttle)
 
 > [`Website`](https://spaceshuttle.deta.dev/)
 
